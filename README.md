@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yudafatoni
+- 👋 Hi guys, I’m @yudafatoni 
 - 👀 I’m interested in technology especially software technology
 - 🌱 I’m currently learning about javascript, php and more about website
 - 💞️ I’m looking to collaborate on develop website or system engineer
