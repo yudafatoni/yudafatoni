@@ -1,3 +1,5 @@
+![banner](img/banner.png)
+
 - 👋 Hi guys, I’m @yudafatoni 
 - 👀 I’m interested in technology especially software technology
 - 🌱 I’m currently learning about javascript, php and more about website
