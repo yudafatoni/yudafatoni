@@ -1,6 +1,6 @@
 ![banner](img/banner.png)
 
-<h1 align="center">Hi Iam Yuda Fatoni 👋</h1>
+<!-- <h1 align="center">Hi Iam Yuda Fatoni 👋</h1> -->
 
 ###
 
@@ -73,6 +73,9 @@
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- ## 💫 About Me:
 I am a student of information systems at the University of Jambi, committed to continuous learning and growth. With a high enthusiasm for IT, I explore various aspects of technology, especially in the role of a web developer and Data Analytics. I am also interested in roles involving project management and leadership. My experience in managing small and medium-sized projects has helped me sharpen my leadership skills, project planning, and team coordination. I am always open to collaboration opportunities and professional networking. If you'd like to further discuss projects, technology, or share experiences, please don't hesitate to contact me. I am delighted to meet and learn from fellow professionals
@@ -91,8 +94,7 @@ I am a student of information systems at the University of Jambi, committed to c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yudafatoni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yudafatoni&limit=5&theme=radical&combine_all_yearly_contributions=true)
